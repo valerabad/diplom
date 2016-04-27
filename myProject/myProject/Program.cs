@@ -13,5 +13,10 @@ namespace myProject
             Console.ReadKey();
             Console.WriteLine("change on master");
         }
+
+        static public void Something()
+        {
+            // new method
+        }
     }
 }
