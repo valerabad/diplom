@@ -5,6 +5,9 @@ using System.Text;
 
 namespace myProject
 {
+    class New
+    { }
+
     class Program
     {
         static void Main(string[] args)
@@ -17,6 +20,11 @@ namespace myProject
                 Console.WriteLine(i);
             }
             Console.ReadKey();
+        }
+
+        static public void Something()
+        {
+            // new method
         }
     }
 }
