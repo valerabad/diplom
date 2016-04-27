@@ -1,0 +1,4 @@
+C:\Users\HP\AppData\Local\Temporary Projects\myProject\bin\Debug\myProject.exe
+C:\Users\HP\AppData\Local\Temporary Projects\myProject\bin\Debug\myProject.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\myProject\obj\x86\Debug\myProject.exe
+C:\Users\HP\AppData\Local\Temporary Projects\myProject\obj\x86\Debug\myProject.pdb
