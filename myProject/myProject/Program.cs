@@ -11,6 +11,7 @@ namespace myProject
         {
             Console.WriteLine("hello world");
             Console.ReadKey();
+            Console.WriteLine("change on master");
         }
     }
 }
