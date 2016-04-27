@@ -4,12 +4,7 @@ using System.Linq;
 using System.Text;
 
 namespace myProject
-{
-    class New
-    {
- 
-    }
-
+{    
     class Program
     {
         static void Main(string[] args)
