@@ -9,9 +9,14 @@ namespace myProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello world");
-            Console.ReadKey();
+            Console.WriteLine("hello world");            
             Console.WriteLine("change on master");
+
+            for (int i = 1; i < 10; i++)
+            {
+                Console.WriteLine(i);
+            }
+            Console.ReadKey();
         }
     }
 }
