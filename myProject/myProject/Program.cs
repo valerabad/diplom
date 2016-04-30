@@ -24,7 +24,7 @@ namespace myProject
             Something(Singletone.Instance);                                 
             Console.ReadKey();
         }
-        
+        // in worh ch
         static public void Something(Singletone singl)
         {
  
