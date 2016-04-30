@@ -28,11 +28,6 @@ namespace myProject
         static public void Something(Singletone singl)
         {
             
-        }
-
-        static public void Something21(Singletone singl)
-        {
-
-        }
+        }       
     }
 }
