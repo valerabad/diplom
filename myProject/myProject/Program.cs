@@ -19,12 +19,15 @@ namespace myProject
             {
                 Console.WriteLine(i);
             }
+
+            //singleton            
+            Something(Singletone.Instance);                                 
             Console.ReadKey();
         }
 
-        static public void Something()
+        static public void Something(Singletone singl)
         {
-            // new method
+            
         }
     }
 }
