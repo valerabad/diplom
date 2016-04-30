@@ -38,5 +38,7 @@ namespace myProject
         { }
         public void testInMaster()
         { }  
+
+        //new change in master
     }
 }
