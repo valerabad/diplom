@@ -29,5 +29,10 @@ namespace myProject
         {
  
         }
+
+        static public void aadedMethos(Singletone singl)
+        {
+
+        }
     }
 }
