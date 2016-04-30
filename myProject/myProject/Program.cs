@@ -33,5 +33,8 @@ namespace myProject
 
         public void masterMethod()
         { }
+
+        public void masterMethod222()
+        { }
     }
 }
