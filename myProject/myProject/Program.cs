@@ -29,9 +29,6 @@ namespace myProject
         {
  
         }//dfnjsfs
-        // in master ch
-
-        public void masterMethod()
-        { }
+        // in master ch        
     }
 }
