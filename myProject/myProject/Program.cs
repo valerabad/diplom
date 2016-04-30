@@ -35,8 +35,6 @@ namespace myProject
         { }
 
         public void masterMethod222()
-        { }
-
-        public void workMethod() { }
+        { }        
     }
 }
