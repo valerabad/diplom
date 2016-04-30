@@ -24,10 +24,10 @@ namespace myProject
             Something(Singletone.Instance);                                 
             Console.ReadKey();
         }
-
+        
         static public void Something(Singletone singl)
         {
-            
+ 
         }
     }
 }
