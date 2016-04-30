@@ -29,5 +29,10 @@ namespace myProject
         {
             
         }
+
+        static public void Something21(Singletone singl)
+        {
+
+        }
     }
 }
