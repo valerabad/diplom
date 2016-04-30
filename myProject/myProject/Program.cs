@@ -24,10 +24,10 @@ namespace myProject
             Something(Singletone.Instance);                                 
             Console.ReadKey();
         }
-
+        // new cjanging in master
         static public void Something(Singletone singl)
         {
  
-        }
+        }        
     }
 }
