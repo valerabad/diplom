@@ -29,10 +29,5 @@ namespace myProject
         {
  
         }
-
-        static public void Something2(Singletone singl)
-        {
-
-        }
     }
 }
