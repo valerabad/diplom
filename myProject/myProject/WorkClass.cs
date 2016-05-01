@@ -8,5 +8,6 @@ namespace myProject
     class WorkClass
     {
         int x;
+        double y;
     }
 }
