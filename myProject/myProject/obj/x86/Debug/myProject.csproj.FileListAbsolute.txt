@@ -6,3 +6,4 @@ C:\Users\HP\Documents\GitHub\diplom\myProject\myProject\obj\x86\Debug\myProject.
 C:\Users\HP\Documents\GitHub\diplom\myProject\myProject\obj\x86\Debug\myProject.pdb
 C:\Users\HP\Documents\GitHub\diplom\myProject\myProject\bin\Debug\myProject.exe
 C:\Users\HP\Documents\GitHub\diplom\myProject\myProject\bin\Debug\myProject.pdb
+C:\Users\HP\Documents\GitHub\diplom\myProject\myProject\obj\x86\Debug\myProject.csprojResolveAssemblyReference.cache
