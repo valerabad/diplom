@@ -11,4 +11,9 @@ namespace myProject
         double y;
         long z;
     }
+
+    class work2
+    {
+        string str;
+    }
 }
