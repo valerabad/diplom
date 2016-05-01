@@ -9,5 +9,11 @@ namespace myProject
     {
         int x;
         double y;
+        long z;
+    }
+
+    class work2
+    {
+        string str;
     }
 }
