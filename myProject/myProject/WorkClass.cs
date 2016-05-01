@@ -9,5 +9,6 @@ namespace myProject
     {
         int x;
         double y;
+        long z;
     }
 }
