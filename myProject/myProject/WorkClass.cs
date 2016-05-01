@@ -10,4 +10,9 @@ namespace myProject
         int x;
         double y;
     }
+
+    class work2
+    {
+        string str;
+    }
 }
