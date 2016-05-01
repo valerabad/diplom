@@ -7,5 +7,6 @@ namespace myProject
 {
     class WorkClass
     {
+        double y;
     }
 }
